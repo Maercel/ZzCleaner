@@ -1,0 +1,11 @@
+C:\Users\Marcel\Downloads\ZzCleaner\bin\Debug\ZzCleaner.exe.config
+C:\Users\Marcel\Downloads\ZzCleaner\bin\Debug\ZzCleaner.exe
+C:\Users\Marcel\Downloads\ZzCleaner\bin\Debug\ZzCleaner.pdb
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.csproj.AssemblyReference.cache
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.Properties.Resources.resources
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.csproj.GenerateResource.cache
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.exe
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.pdb
+C:\Users\Marcel\Downloads\ZzCleaner\obj\Debug\ZzCleaner.Form1.resources
