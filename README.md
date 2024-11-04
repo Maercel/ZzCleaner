@@ -1,4 +1,4 @@
-# ZzCleaner
+# ZzCleaner 💿💻
 **ZzCleaner** is a **Windows desktop cleaner** application designed to help users organize and declutter their Windows desktop. Built using **Windows Forms** in **C#**. 
 
 ---
